@@ -1,0 +1,77 @@
+﻿{
+    "Book": [
+    {
+      "Name": "Ephesians",
+      "Chapter": [
+        {
+          "Id": "5",
+          "verse": [
+            { "Id":"1","text":"Follow God’s example, therefore, as dearly loved children" },
+            { "Id":"2","text":"and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God." },
+            { "Id":"3","text":"But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people." },
+            { "Id":"4","text":"Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving." },
+            { "Id":"5","text":"For of this you can be sure: No immoral, impure or greedy person—such a person is an idolater—has any inheritance in the kingdom of Christ and of God." },
+            { "Id":"6","text":"Let no one deceive you with empty words, for because of such things God’s wrath comes on those who are disobedient." },
+            { "Id":"7","text":"Therefore do not be partners with them." },
+            { "Id":"8","text":"For you were once darkness, but now you are light in the Lord. Live as children of light" },
+            { "Id":"9","text":"(for the fruit of the light consists in all goodness, righteousness and truth)" },
+            { "Id":"10","text":"and find out what pleases the Lord." },
+            { "Id":"11","text":"Have nothing to do with the fruitless deeds of darkness, but rather expose them." },
+            { "Id":"12","text":"It is shameful even to mention what the disobedient do in secret." },
+            { "Id":"13","text":"But everything exposed by the light becomes visible—and everything that is illuminated becomes a light." },
+            { "Id":"14","text":"This is why it is said \\:\"Wake up, sleeper,rise from the dead,and Christ will shine on you.\"" },
+            { "Id":"15","text":"Be very careful, then, how you live—not as unwise but as wise," },
+            { "Id":"16","text":"making the most of every opportunity, because the days are evil." },
+            { "Id":"17","text":"Therefore do not be foolish, but understand what the Lord’s will is." },
+            { "Id":"18","text":"Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit," },
+            { "Id":"19","text":"speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord," },
+            { "Id":"20","text":"always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ." },
+            { "Id":"21","text":"Submit to one another out of reverence for Christ." },
+            { "Id":"22","text":"Wives, submit yourselves to your own husbands as you do to the Lord." },
+            { "Id":"23","text":"For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior." },
+            { "Id":"24","text":"Now as the church submits to Christ, so also wives should submit to their husbands in everything." },
+            { "Id":"25","text":"Husbands, love your wives, just as Christ loved the church and gave himself up for her" },
+            { "Id":"26","text":"to make her holy, cleansing her by the washing with water through the word," },
+            { "Id":"27","text":"and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless." },
+            { "Id":"28","text":"In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself." },
+            { "Id":"29","text":"After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church—" },
+            { "Id":"30","text":"for we are members of his body." },
+            { "Id":"31","text":"\"For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.\"" },
+            { "Id":"32","text":"This is a profound mystery—but I am talking about Christ and the church." },
+            { "Id":"33","text":"However, each one of you also must love his wife as he loves himself, and the wife must respect her husband" }
+          ]
+        },
+        {
+          "Id": "6",
+          "verse": [
+            { "Id":"1","text":"Children, obey your parents in the Lord, for this is right." },
+            { "Id":"2","text":"\"Honor your father and mother\"—which is the first commandment with a promise—" },
+            { "Id":"3","text":"so that it may go well with you and that you may enjoy long life on the earth.\"" },
+            { "Id":"4","text":"Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord." },
+            { "Id":"5","text":"Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ." },
+            { "Id":"6","text":"Obey them not only to win their favor when their eye is on you, but as slaves of Christ, doing the will of God from your heart." },
+            { "Id":"7","text":"Serve wholeheartedly, as if you were serving the Lord, not people," },
+            { "Id":"8","text":"because you know that the Lord will reward each one for whatever good they do, whether they are slave or free." },
+            { "Id":"9","text":"And masters, treat your slaves in the same way. Do not threaten them, since you know that he who is both their Master and yours is in heaven, and there is no favoritism with him. The Armor of God" },
+            { "Id":"10","text":"Finally, be strong in the Lord and in his mighty power." },
+            { "Id":"11","text":"Put on the full armor of God, so that you can take your stand against the devil’s schemes." },
+            { "Id":"12","text":"For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms." },
+            { "Id":"13","text":"Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand." },
+            { "Id":"14","text":"Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place," },
+            { "Id":"15","text":"and with your feet fitted with the readiness that comes from the gospel of peace." },
+            { "Id":"16","text":"In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one." },
+            { "Id":"17","text":"Take the helmet of salvation and the sword of the Spirit, which is the word of God." },
+            { "Id":"18","text":"And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people." },
+            { "Id":"19","text":"Pray also for me, that whenever I speak, words may be given me so that I will fearlessly make known the mystery of the gospel," },
+            { "Id":"20","text":"for which I am an ambassador in chains. Pray that I may declare it fearlessly, as I should." },
+            { "Id":"21","text":"Tychicus, the dear brother and faithful servant in the Lord, will tell you everything, so that you also may know how I am and what I am doing. 22I am sending him to you for this very purpose, that you may know how we are, and that he may encourage you." },
+            { "Id":"23","text":"Peace to the brothers and sisters, and love with faith from God the Father and the Lord Jesus Christ." },
+            { "Id":"24","text":"Grace to all who love our Lord Jesus Christ with an undying love." }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
+

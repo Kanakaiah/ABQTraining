@@ -1,0 +1,35 @@
+﻿{
+  "Book": [
+    {
+      "Name": "Ephesians",
+      "Chapter": [
+        {
+          "Id": "5",
+          "verse": [
+            {
+              "Id": "1","text": "Follow God’s example, therefore, as dearly loved children"
+            },
+            {
+              "Id": "2",
+              "text": "and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God."
+            }
+          ]
+        },
+        {
+          "Id": "6",
+          "verse": [
+            {
+              "Id": "1",
+              "text": "Follow God’s example, therefore, as dearly loved children"
+            },
+            {
+              "Id": "2",
+              "text": "and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

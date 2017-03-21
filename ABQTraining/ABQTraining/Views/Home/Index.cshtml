@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<ABQTraining.Model.Chapter>
+
+<div class="row">
+    <div class="col-md-12">
+        <h3>Book of Ephesians</h3>
+        @foreach (var item in Model)
+            {
+            <h4><strong> Chapter: @item.Id</strong></h4>
+            @foreach (var verse in item.verse)
+            {
+                <p><strong>@verse.Id </strong> @verse.text</p>
+            }
+            <br />
+        }
+    </div>
+   
+</div>
